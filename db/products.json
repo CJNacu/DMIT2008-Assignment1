@@ -1,0 +1,110 @@
+[
+    {
+        "id": "PRD001",
+        "name": "Dog Collar",
+        "brand": "Good Boy Inc.",
+        "price": "15.99",
+        "description": "Adjustable collar that comes in different sizes.",
+        "image": "/PRD001.jpg",
+        "rating": 4
+    },
+    {
+        "id": "PRD002",
+        "name": "Chicken Treats",
+        "brand": "Pure Bites",
+        "price": "24.99",
+        "description": "Tasty chicken treats for adult dogs.",
+        "image": "/PRD002.jpg",
+        "rating": 5
+    },
+    {
+        "id": "PRD003",
+        "name": "Dog Bed",
+        "brand": "Value Beds",
+        "price": "11.99",
+        "description": "Provide your dog with a place to find optimal comfort in this Value Beds Woof Value Cuddler Dog Bed.",
+        "image": "/PRD003.jpg",
+        "rating": 3
+    },
+    {
+        "id": "PRD004",
+        "name": "Stainless Steel Patina Dog Bowl",
+        "brand": "Top Paw",
+        "price": "14.99",
+        "description": "This Top Paw Stainless Steel Patina Dog Bowl makes a perfect choice to keep your pup either fed or hydrated.",
+        "image": "/PRD004.jpg",
+        "rating": 2
+    },
+    {
+        "id": "PRD005",
+        "name": "T-Bone Chew Dog Toy",
+        "brand": "Joyhound",
+        "price": "19.99",
+        "description": "Our Joyhound Boss Bones T-Bone Chew Toy is just the right choice, and is worthy enough for your best friend. ",
+        "image": "/PRD005.jpg",
+        "rating": 5
+    },
+    {
+        "id": "PRD006",
+        "name": "Gourmet Rainbow Paw Dog Cookie",
+        "brand": "Molly's Bakery",
+        "price": "3.99",
+        "description": "Presenting Molly's Barkery Gourmet Hand Cut, Baked and Decorated Dog Cookie. ",
+        "image": "/PRD006.jpg",
+        "rating": 5
+    },
+    {
+        "id": "PRD007",
+        "name": "Insanely Calm™ Dog Anxiety Shirt",
+        "brand": "ThunderShirt",
+        "price": "49.99",
+        "description": "Stop problem barking, chewing, and anxiety in your dog the natural way with the ThunderShirt Dog Anxiety Shirt. ",
+        "image": "/PRD007.jpg",
+        "rating": 4
+    },
+    {
+        "id": "PRD008",
+        "name": "Dog Bandana - Grey",
+        "brand": "Beaver Canoe",
+        "price": "5.99",
+        "description": "Your dog will look absolutely adorable in this Beaver Canoe Grey Bandana. This bandana ties on easily and offers a comfortable fit. ",
+        "image": "/PRD008.jpg",
+        "rating": 4.5
+    },
+    {
+        "id": "PRD009",
+        "name": "Water Dog Shoes",
+        "brand": "Arcadia Trail",
+        "price": "18.99",
+        "description": "Outdoor excursions in nature with your pup often include forays into water, and in those moments you'll both be glad you packed these Arcadia Trail Grey Water Shoes.",
+        "image": "/PRD009.jpg",
+        "rating": 4
+    },
+    {
+        "id": "PRD010",
+        "name": "Dog pads - Large",
+        "brand": "Grreat Choice",
+        "price": "49.99",
+        "description": "Count on Grreat Choice Dog Pads to control odors and give your pup a leak proof place to relieve himself indoors. ",
+        "image": "/PRD010.jpg",
+        "rating": 5
+    },
+    {
+        "id": "PRD011",
+        "name": "Ultra Vari Dog Kennel",
+        "brand": "Petmate",
+        "price": "103.99",
+        "description": "Perfect for housebreaking, the Petmate Ultra Vari Kennel is ideal for training and traveling.  ",
+        "image": "/PRD011.jpg",
+        "rating": 4.5
+    },
+    {
+        "id": "PRD012",
+        "name": "Dog Treat - Bacon",
+        "brand": "Beggin Strips",
+        "price": "12.99",
+        "description": "PWith real meat as the #1 ingredient, Beggin' Strips Bacon Flavour Dog Snacks are guaranteed to unleash your dog's uncontainable excitement.",
+        "image": "/PRD012.jpg",
+        "rating": 3.5
+    }
+]
