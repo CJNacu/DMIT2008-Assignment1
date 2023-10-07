@@ -8,7 +8,7 @@ let productStore =[]
     renderProduct(productStore)
  }
 
- getProductData('/db/productss.json')
+ getProductData('/db/products.json')
 
  function renderProduct(products){
     const container = document.createElement('div')
